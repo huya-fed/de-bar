@@ -16,8 +16,11 @@
 
 ## USAGE
 
+	在sass文件中引用样式
+	@import "components/de-bar/de-bar.css";
 
-	var Saidebar = require('sai-de-bar');
+	var Saidebar = require('de-bar');
+    Saidebar.open();
 	Saidebar.log("log");
 	Saidebar.info("info");
 	Saidebar.warn("warn");
