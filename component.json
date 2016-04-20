@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/saijs/sai-de-bar",
+    "version": "v1.0.0",
+    "name": "de-bar",
+    "main": "de-bar.js"
+}
